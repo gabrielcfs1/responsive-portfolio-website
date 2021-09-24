@@ -3,4 +3,4 @@
 
 
 
-<img src="https://i.ibb.co/qNybnHP/Screenshot-2.png" alt="My cool logo"/>
+<!-- <img src="https://i.ibb.co/qNybnHP/Screenshot-2.png" alt="My cool logo"/> -->
